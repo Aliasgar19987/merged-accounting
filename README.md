@@ -1,0 +1,2 @@
+# merged-accounting
+This project is for creating an accounting system that links the users account books with each other accounts. For example an created by the seller can act as the purchase invoice in the buyers account if he accepts it. Hence the buyer can see the invoice immediately as the seller creates the invoice. Now when the buyer accepts the invoice from the seller the ledger of the seller is automatically credited in the buyers account and the sellers account is automatically debited.
